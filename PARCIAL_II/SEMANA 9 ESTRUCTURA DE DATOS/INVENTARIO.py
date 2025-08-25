@@ -1,6 +1,3 @@
-#from producto import Producto
-
-# Clase Inventario
 class Inventario:
     def __init__(self):
         """Inicializa el inventario con una lista vacía de productos"""
