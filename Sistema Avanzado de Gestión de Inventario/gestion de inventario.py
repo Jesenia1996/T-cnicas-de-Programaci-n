@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Sistema avanzado de gestión de inventario con ID manual.
 - POO: Clase Producto, Clase Inventario
@@ -26,7 +27,7 @@ class Producto:
         self.id: str = id_
         self.nombre: str = nombre
         self.cantidad: int = int(cantidad)
-        self.precio: float = float(precio)
+        self.precio : float = float(precio)
 
     # Métodos getters y setters
     def get_id(self) -> str:
@@ -138,7 +139,7 @@ class Inventario:
 
 # ----- Interfaz de consola -----
 def mostrar_menu():
-    print("\n--- MENÚ INVENTARIO ---")
+    print("\n--- GESTION DE INVENTARIO ---")
     print("1) Agregar producto")
     print("2) Eliminar producto por ID")
     print("3) Actualizar cantidad")

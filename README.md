@@ -1,1 +1,1 @@
-# T-cnicas-de-Programaci-n
+Jesenia Montalvan
