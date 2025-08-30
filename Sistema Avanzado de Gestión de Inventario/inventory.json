@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "nombre": "Manzana",
+        "cantidad": 150,
+        "precio": 5.0
+    },
+    {
+        "id": "002",
+        "nombre": "Platano",
+        "cantidad": 200,
+        "precio": 3.0
+    },
+    {
+        "id": "003",
+        "nombre": "Naranjas",
+        "cantidad": 180,
+        "precio": 4.0
+    },
+    {
+        "id": "004",
+        "nombre": "Pera",
+        "cantidad": 120,
+        "precio": 6.9
+    },
+    {
+        "id": "005",
+        "nombre": "Uvas",
+        "cantidad": 80,
+        "precio": 9.0
+    },
+    {
+        "id": "006",
+        "nombre": "Sandia",
+        "cantidad": 30,
+        "precio": 35.0
+    },
+    {
+        "id": "007",
+        "nombre": "Melon",
+        "cantidad": 25,
+        "precio": 28.0
+    },
+    {
+        "id": "008",
+        "nombre": "Mango",
+        "cantidad": 120,
+        "precio": 12.0
+    },
+    {
+        "id": "009",
+        "nombre": "Piña",
+        "cantidad": 40,
+        "precio": 18.0
+    },
+    {
+        "id": "010",
+        "nombre": "Limon",
+        "cantidad": 250,
+        "precio": 2.0
+    }
+]
