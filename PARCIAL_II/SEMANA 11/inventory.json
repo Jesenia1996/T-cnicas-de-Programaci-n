@@ -33,25 +33,25 @@
         "id": "006",
         "nombre": "sandia",
         "cantidad": 30,
-        "precio": 3.00
+        "precio": 3.0
     },
     {
         "id": "007",
         "nombre": "melon",
         "cantidad": 25,
-        "precio": 6.00
+        "precio": 6.0
     },
     {
         "id": "008",
         "nombre": "mango",
         "cantidad": 100,
-        "precio": 1.00
+        "precio": 1.0
     },
     {
         "id": "009",
         "nombre": "piña",
         "cantidad": 40,
-        "precio": 2.00
+        "precio": 2.0
     },
     {
         "id": "010",
@@ -64,5 +64,11 @@
         "nombre": "coco",
         "cantidad": 200,
         "precio": 1.75
+    },
+    {
+        "id": "012",
+        "nombre": "fresa",
+        "cantidad": 80,
+        "precio": 2.25
     }
 ]
