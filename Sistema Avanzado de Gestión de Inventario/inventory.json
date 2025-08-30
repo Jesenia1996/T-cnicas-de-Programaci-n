@@ -58,5 +58,11 @@
         "nombre": "Limon",
         "cantidad": 250,
         "precio": 2.0
+    },
+    {
+        "id": "011",
+        "nombre": "Fresas",
+        "cantidad": 39,
+        "precio": 3.2
     }
 ]

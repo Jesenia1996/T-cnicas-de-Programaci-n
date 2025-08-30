@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Sistema avanzado de gestión de inventario con ID manual.
 - POO: Clase Producto, Clase Inventario
