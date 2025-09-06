@@ -1,0 +1,42 @@
+{
+    "1": {
+        "nombre": "JUAN",
+        "id_usuario": "1"
+    },
+    "2": {
+        "nombre": "PEDRO",
+        "id_usuario": "2"
+    },
+    "3": {
+        "nombre": "JULIO",
+        "id_usuario": "3"
+    },
+    "4": {
+        "nombre": "MARTHA",
+        "id_usuario": "4"
+    },
+    "5": {
+        "nombre": "LUIS",
+        "id_usuario": "5"
+    },
+    "6": {
+        "nombre": "MARIANA",
+        "id_usuario": "6"
+    },
+    "7": {
+        "nombre": "VERONICA",
+        "id_usuario": "7"
+    },
+    "8": {
+        "nombre": "CARLOS",
+        "id_usuario": "8"
+    },
+    "9": {
+        "nombre": "ELENA",
+        "id_usuario": "9"
+    },
+    "10": {
+        "nombre": "MARISOL",
+        "id_usuario": "10"
+    }
+}

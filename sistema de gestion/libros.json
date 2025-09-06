@@ -1,0 +1,56 @@
+{
+    "1397": {
+        "titulo": "CINCUENTA_SOMBRAS_DE_GREY",
+        "autor": "E. L. James",
+        "categoria": "Rom\u00e1ntica / Er\u00f3tica",
+        "isbn": "1397"
+    },
+    "1289": {
+        "titulo": "CIEN_A\u00d1OS_DE_SOLEDAD",
+        "autor": "Gabriel_Garc\u00eda_M\u00e1rquez",
+        "categoria": "NOVELA",
+        "isbn": "1289"
+    },
+    "4561": {
+        "titulo": "ODISEA",
+        "autor": "HOMERO",
+        "categoria": "MITOLOGIA",
+        "isbn": "4561"
+    },
+    "6547": {
+        "titulo": "DRACULA",
+        "autor": "BRAM",
+        "categoria": "TERROR",
+        "isbn": "6547"
+    },
+    "1654": {
+        "titulo": "PRINCIPITO",
+        "autor": "ANTOINE",
+        "categoria": "INFANTIL",
+        "isbn": "1654"
+    },
+    "3148": {
+        "titulo": "FRANKENSTEIN",
+        "autor": "MARY",
+        "categoria": "TERROR",
+        "isbn": "3148"
+    },
+    "8432": {
+        "titulo": "ALQUIMISTA",
+        "autor": "PAULO",
+        "categoria": "Filos\u00f3fica",
+        "isbn": "8432"
+    },
+    "9865": {
+        "titulo": "1984",
+        "autor": "GEORGE,ORWELL",
+        "categoria": "DISPOTIA",
+        "isbn": "9865"
+    },
+    "1686": {
+        "titulo": "MISERABLES",
+        "autor": "VICTOR,HUGO",
+        "categoria": "DRAMA",
+        "isbn": "1686"
+    }
+}
