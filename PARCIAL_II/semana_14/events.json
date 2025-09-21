@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1758412385901",
+    "date": "2025-09-26",
+    "time": "17:30",
+    "description": "Comparsa de mi hijo"
+  },
+  {
+    "id": "1758412425133",
+    "date": "2025-09-29",
+    "time": "12:30",
+    "description": "Rodeo montubio"
+  },
+  {
+    "id": "1758412508676",
+    "date": "2025-10-01",
+    "time": "20:00",
+    "description": "Eleccion de la reina del cantón"
+  },
+  {
+    "id": "1758412559531",
+    "date": "2025-10-02",
+    "time": "09:00",
+    "description": "Declamación al canton"
+  },
+  {
+    "id": "1758412688738",
+    "date": "2025-10-03",
+    "time": "10:00",
+    "description": "Degustación del plato tipico del cantón"
+  },
+  {
+    "id": "1758412719202",
+    "date": "2025-12-03",
+    "time": "06:00",
+    "description": "cumpleaños de mi mai"
+  },
+  {
+    "id": "1758412745041",
+    "date": "2025-12-09",
+    "time": "06:00",
+    "description": "Cumpleaños de mi hijo Anthony"
+  },
+  {
+    "id": "1758412836222",
+    "date": "2025-12-06",
+    "time": "06:00",
+    "description": "Semana de examenes finales del semestre"
+  },
+  {
+    "id": "1758412917854",
+    "date": "2025-09-22",
+    "time": "06:00",
+    "description": "Postulación para la beca estudiantil"
+  }
+]
